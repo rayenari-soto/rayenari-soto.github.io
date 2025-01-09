@@ -1,0 +1,36 @@
+/*Esto es un comentario. Me iré acostumbrando a utilizarlos.*/
+html {
+    font-size: 10px;
+    font-family: 'Rubik', serif;
+    background-color: white;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #ececec;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+h1 {
+    font-size: 70px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #1f1f1f;
+    text-shadow: 3px 3px 10px gray; /*{horizontal offset} {vertical offset} {blur} {color}*/
+
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 85%;
+}
+
+p, li {
+    font-size: 14px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
